@@ -7,7 +7,7 @@ Learning](https://img.shields.io/badge/Domain-Image%20Classification-green)
 
 ------------------------------------------------------------------------
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains a clean and well‑structured Convolutional
 Neural Network (CNN) project for **image classification**.\
@@ -25,7 +25,7 @@ The notebooks included in this repository explain:
 
 ------------------------------------------------------------------------
 
-## 📂 Repository Structure
+## Repository Structure
 
   ----------------------------------------------------------------------------------
   File Name                                 Description
@@ -45,7 +45,7 @@ The notebooks included in this repository explain:
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+##  Features
 
 -   Simple and easy‑to‑understand implementation\
 -   Beginner‑friendly explanations\
@@ -54,7 +54,7 @@ The notebooks included in this repository explain:
 
 ------------------------------------------------------------------------
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 -   Python 3.11\
 -   TensorFlow / Keras\
@@ -64,7 +64,7 @@ The notebooks included in this repository explain:
 
 ------------------------------------------------------------------------
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **MNIST handwritten digit dataset** consisting
 of: - 60,000 training images\
@@ -73,7 +73,7 @@ of: - 60,000 training images\
 
 ------------------------------------------------------------------------
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 After working through this repository, you will understand:
 
@@ -85,14 +85,14 @@ After working through this repository, you will understand:
 
 ------------------------------------------------------------------------
 
-## 👤 Author
+##  Author
 
 **Muhammad Javed**\
 Beginner Machine Learning & Deep Learning Enthusiast
 
 ------------------------------------------------------------------------
 
-## ⭐ Contributions
+##  Contributions
 
 Pull requests and suggestions are welcome!\
 If you like this project, please ⭐ the repository.
